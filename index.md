@@ -14,11 +14,11 @@ Current datasets include:
   
 These datasets can be roughly grouped into four categories that represent a wide range of problems, spanning single molecular structures and interactions between biomolecules as well as molecular functional and design/engineering tasks.
 
-![Image](https://github.com/awfderry/atom3d/blob/gh-pages/composite_Datasets.png)
+![Image](composite_Datasets.png)
 
 ### References
 
-**Repository**: All dataset processing code and installation instructions can be found at [https://github.com/drorlab/atom3d]https://github.com/drorlab/atom3d
+**Repository**: All dataset processing code and installation instructions can be found at [https://github.com/drorlab/atom3d](https://github.com/drorlab/atom3d)
 
 **Paper**: Please see our [preprint](arxiv.org/XXXX) for further details on the datasets and benchmarks.
 
