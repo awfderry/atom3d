@@ -2,6 +2,8 @@
 
 ATOM3D is a unified collection of datasets concerning the three-dimensional structure of biomolecules, including proteins, small molecules, and nucleic acids. These datasets are specifically designed to provide a benchmark for machine learning methods which operate on 3D molecular structure, and represent a variety of important structural, functional, and engineering tasks. All datasets are provided in a standardized format along with corresponding processing code and dataloaders for common machine learning frameworks (PyTorch and TensorFlow). ATOM3D is designed to be a living database, where datasets are updated and tasks are added as the field progresses.
 
+All datasets can be downloaded in HDF5 format at the following [link](https://drive.google.com/drive/folders/1UKqVvz9Ae35PThyqB7unlZNb2bT8d740).
+
 Current datasets include:
   - Small Molecule Properties (SMP)
   - Protein Interface Prediction (PIP)
