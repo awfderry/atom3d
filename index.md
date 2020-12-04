@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## ATOM3D: Tasks on Molecules in Three Dimensions
 
-You can use the [editor on GitHub](https://github.com/awfderry/atom3d/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ATOM3D is a unified collection of datasets concerning the three-dimensional structure of biomolecules, including proteins, small molecules, and nucleic acids. These datasets are specifically designed to provide a benchmark for machine learning methods which operate on 3D molecular structure, and represent a variety of important structural, functional, and engineering tasks. All datasets are provided in a standardized format along with corresponding processing code and dataloaders for common machine learning frameworks (PyTorch and TensorFlow). ATOM3D is designed to be a living database, where datasets are updated and tasks are added as the field progresses.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](https://github.com/awfderry/atom3d/blob/gh-pages/composite_Datasets.png)
 
-### Markdown
+### References
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/awfderry/atom3d/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Repository**: All dataset processing code can be found at https://github.com/drorlab/atom3d
+**Paper**: Please see our [preprint](arxiv.org/XXXX) for further details on the datasets and benchmarks.
+**NeurIPS LMRL Workshop 2020**: Check out our [poster] and [talk] at the Learning Meaningful Representations of Life workshop at NeurIPS 2020.
