@@ -2,17 +2,15 @@
 
 ATOM3D is a unified collection of datasets concerning the three-dimensional structure of biomolecules, including proteins, small molecules, and nucleic acids. These datasets are specifically designed to provide a benchmark for machine learning methods which operate on 3D molecular structure, and represent a variety of important structural, functional, and engineering tasks. All datasets are provided in a standardized format along with corresponding processing code and dataloaders for common machine learning frameworks (PyTorch and TensorFlow). ATOM3D is designed to be a living database, where datasets are updated and tasks are added as the field progresses.
 
-All datasets can be downloaded in HDF5 format at the following [link](https://drive.google.com/drive/folders/1UKqVvz9Ae35PThyqB7unlZNb2bT8d740).
-
 Current datasets include:
-  - Small Molecule Properties (SMP)
-  - Protein Interface Prediction (PIP)
-  - Residue Identity (RES)
-  - Mutation Stability Prediction (MSP)
-  - Ligand Binding Affinity (LBA)
-  - Ligand Efficacy Prediction (LEP)
-  - Protein Structure Ranking (PSR)
-  - RNA Structure Ranking (RSR)
+  - Small Molecule Properties (SMP) [[download]](https://drive.google.com/uc?export=download&id=1Uce6a6VoN9gYAn3V4eR3QC0f6a6mOXpI)
+  - Protein Interface Prediction (PIP) [[download]](https://drive.google.com/uc?export=download&id=1EL4ybt2SJF7iLzbavBGlU1ImMiZ0dOkH)
+  - Residue Identity (RES) [[download]](https://drive.google.com/uc?export=download&id=1CzLiTDFgApIBaI1znLjEk2d3T0Zh4Yjo)
+  - Mutation Stability Prediction (MSP) [[download]](https://drive.google.com/uc?export=download&id=186MLykFkC3IbslXhLfHIwQwnDOy1Sr49)
+  - Ligand Binding Affinity (LBA) [[download]](https://drive.google.com/uc?export=download&id=1pj0RCW3mOMnB2FYQPmMv6XFMS0Ps7RvY)
+  - Ligand Efficacy Prediction (LEP) [[download]](https://drive.google.com/uc?export=download&id=1NykcNi0im_XfUK4NuO-g4LlsSJoQl7jQ)
+  - Protein Structure Ranking (PSR) [[download]](https://drive.google.com/uc?export=download&id=1-Hn2f60BC4aJYGKLCeL_gebXVQYF6ZGS)
+  - RNA Structure Ranking (RSR) [[download]](https://drive.google.com/uc?export=download&id=1imQiQI6kyDnA4t-rxju0PetgJsASkx7S)
   
 These datasets can be roughly grouped into four categories that represent a wide range of problems, spanning single molecular structures and interactions between biomolecules as well as molecular functional and design/engineering tasks.
 
